@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color:red;
+    text-shadow:3px 3px 5px  black;
+}
+i{ 
+ color:red;
+}
+.img1{
+height:400px;
+
+}
+.Color{
+    background-color: #fae8ec;
+    
+}
+.marque{
+    background-color:#EEEEEE ;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
